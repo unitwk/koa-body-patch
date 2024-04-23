@@ -1,4 +1,7 @@
-# koa-body
+# koa-body-patch
+
+FIX: https://github.com/advisories/GHSA-8cp3-66vr-3r4c
+PR: https://github.com/koajs/koa-body/pull/232
 
 [![CI](https://github.com/koajs/koa-body/actions/workflows/ci.yaml/badge.svg)](https://github.com/koajs/koa-body/actions/workflows/ci.yaml)
 [![KoaJs Slack](https://img.shields.io/badge/Koa.Js-Slack%20Channel-Slack.svg?longCache=true)](https://communityinviter.com/apps/koa-js/koajs)
