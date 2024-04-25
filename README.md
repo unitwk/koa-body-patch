@@ -1,6 +1,7 @@
 # koa-body-patch
 
-FIX: https://github.com/advisories/GHSA-8cp3-66vr-3r4c
+Fix: https://github.com/advisories/GHSA-8cp3-66vr-3r4c
+
 PR: https://github.com/koajs/koa-body/pull/232
 
 [![CI](https://github.com/koajs/koa-body/actions/workflows/ci.yaml/badge.svg)](https://github.com/koajs/koa-body/actions/workflows/ci.yaml)
@@ -15,7 +16,7 @@ PR: https://github.com/koajs/koa-body/pull/232
 > Install with [npm](https://github.com/npm/npm)
 
 ```
-npm install koa-body
+npm install koa-body-patch
 ```
 
 ## Features
